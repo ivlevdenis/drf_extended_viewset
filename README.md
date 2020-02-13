@@ -9,7 +9,6 @@ Django Rest Framework extension for implement by action serializers, permissions
 
 
 * Free software: MIT license
-* Documentation: https://drf-extended-viewset.readthedocs.io.
 
 
 Features
