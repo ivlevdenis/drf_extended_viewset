@@ -8,7 +8,22 @@ Django Rest Framework Extended ViewSet
 Django Rest Framework extension for implement by action serializers, permissions & /etc
 
 
-* Free software: MIT license
+**Dependencies**
+
+* Python 3.7+
+* Django 2.0+
+* Django Rest Framework 3.10+
+
+**Setup**
+
+You can install the library directly from pypi using pip:
+
+`$ pip install drf-extended-viewset`
+
+
+License
+-------
+Free software: MIT license
 
 
 Features
@@ -35,7 +50,7 @@ class MyModelViewSet(ExtendedModelViewSet):
 Credits
 -------
 
-This package was created with Cookiecutter and the `audreyr/cookiecutter-pypackage` project template.
+This package was created with [Cookiecutter](https://github.com/audreyr/cookiecutter) and the [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) project template.
 
-[Cookiecutter](https://github.com/audreyr/cookiecutter)
-[audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
+
+
